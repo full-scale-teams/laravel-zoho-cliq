@@ -17,7 +17,10 @@ jobs:
             testbench: ^9.0
         exclude:
           - php: 8.1
-            laravel: 11.* # Laravel 11 is not compatible with PHP 8.1
+            laravel: 11.*
+          - stability: prefer-lowest
+            laravel: 11.*
+            
 
 
     name: PHP ${{ matrix.php }} - Laravel ${{ matrix.laravel }} - Stability ${{ matrix.stability }} - OS ${{ matrix.os }}

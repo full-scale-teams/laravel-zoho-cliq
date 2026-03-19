@@ -17,6 +17,10 @@ To get started, install the package via Composer:
 composer require realrashid/laravel-zoho-cliq
 ```
 
+**Requirements:**
+- PHP ^8.2
+- Laravel ^10.0 | ^11.0 | ^12.0 | ^13.0
+
 Then, publish the configuration file:
 
 ```bash

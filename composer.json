@@ -1,5 +1,5 @@
 {
-    "name": "realrashid/laravel-zoho-cliq",
+    "name": "full-scale-teams/laravel-zoho-cliq",
     "description": "A Laravel package for integrating with Zoho Cliq, allowing you to send messages, notifications, and rich content seamlessly from your Laravel application.",
     "keywords": [
         "laravel",
@@ -13,7 +13,7 @@
         "zoho-cliq",
         "laravel-notifications"
     ],
-    "homepage": "https://github.com/realrashid/laravel-zoho-cliq",
+    "homepage": "https://github.com/full-scale-teams/laravel-zoho-cliq",
     "license": "MIT",
     "authors": [
         {
@@ -24,8 +24,8 @@
     ],
     "support": {
         "email": "realrashid05@gmail.com",
-        "issues": "https://github.com/realrashid/laravel-zoho-cliq/issues",
-        "source": "https://github.com/realrashid/laravel-zoho-cliq",
+        "issues": "https://github.com/full-scale-teams/laravel-zoho-cliq/issues",
+        "source": "https://github.com/full-scale-teams/laravel-zoho-cliq",
         "docs": "https://realrashid.github.io/laravel-zoho-cliq/"
     },
     "require": {
